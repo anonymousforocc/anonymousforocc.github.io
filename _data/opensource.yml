@@ -1,0 +1,11 @@
+- layout: left
+  name: Spring 버그 제보
+  link:
+#  quote: >
+  description: | # this will include new lines to allow paragraphs
+    * Coroutine 환경에서 AOP와 @Transactional을 함께 적용할 때 발생하는 AOP가 무시되는 버그 리포팅
+      * [Coroutine 환경에서 Spring AOP 사용하기 (with. tx와 같이 사용시 버그)](https://github.com/anonymousforocc/coroutine-aop) 
+    
+
+
+
